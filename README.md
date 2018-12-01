@@ -1,4 +1,4 @@
-<h1>Welcome to Christmas Wishlist</h1>
+<h1>Welcome to Christmas Wishlist :santa: </h1>
 <h4>A simple python3 application that takes in items and adds them to a list.</h4>
 
 <h2>You better have been good this year! Here you will write your letter and wishlist to Santa before he visits you on Christmas Eve</h2>
